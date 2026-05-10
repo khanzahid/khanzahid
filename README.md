@@ -92,21 +92,16 @@ I'm a **Senior Full Stack Software Engineer** with **9+ years** building product
 ### 📊 GitHub Stats
 
  <p align="left">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160"
-  src="https://github-readme-stats.vercel.app/api?username=khanzahid&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="GitHub
-   Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanzahid&layout=compact&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top
-  Languages" />
-    </a>
+    <img src="https://img.shields.io/github/followers/khanzahid?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/khanzahid?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="Total Stars" />
+    <img src="https://komarev.com/ghpvc/?username=khanzahid&label=Profile%20Views&style=for-the-badge&color=success" alt="Profile Views" />
   </p>
 
   <p align="left">
-    <img src="https://streak-stats.demolab.com?user=khanzahid&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=khanzahid&hide_border=true&theme=default" alt="GitHub Streak" />
   </p>
+
+
 
 
 ---
