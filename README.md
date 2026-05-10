@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Zahid 👋</h1>
-<h3 align="center">Senior Full Stack Software Engineer · 9+ Years · Jeddah, Saudi Arabia 🇸🇦</h3>
+<h3 align="center">Senior Full Stack Software Engineer · 9+ Years · Jeddah, Saudi Arabia (KSA)</h3>
 
 <p align="center">
   <a href="https://mzahidkhan.com">🌐 Portfolio</a> ·
@@ -82,7 +82,8 @@ I'm a **Senior Full Stack Software Engineer** with **9+ years** building product
 | **Lucky Core** | Multilingual E-commerce | Laravel | [🔗 Visit](https://luckycore.com/en) |
 | **Prime Food** | Food / Hospitality | Laravel | [🔗 Visit](https://primefood.techzone.so/) |
 | **Tabsap** | Corporate Brand | Next.js | [🔗 Visit](https://tabsap.com/) |
-| **Khurshed Group** | Corporate Group Site | WordPress | [🔗 Visit](https://khurshedgroup.com/) |
+| **Khurshed Group** | Corporate Group Site | Laravel . React | [🔗 Visit](https://khurshedgroup.com/) |
+| **The Holy Tutors** | WP LMS Plugin | WordPress . React | [🔗 Visit](https://khurshedgroup.com/) |
 
 > 50+ projects delivered overall. Full portfolio: **[mzahidkhan.com](https://mzahidkhan.com)**
 
