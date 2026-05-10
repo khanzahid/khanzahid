@@ -83,7 +83,7 @@ I'm a **Senior Full Stack Software Engineer** with **9+ years** building product
 | **Prime Food** | Food / Hospitality | Laravel | [🔗 Visit](https://primefood.techzone.so/) |
 | **Tabsap** | Corporate Brand | Next.js | [🔗 Visit](https://tabsap.com/) |
 | **Khurshed Group** | Corporate Group Site | Laravel . React | [🔗 Visit](https://khurshedgroup.com/) |
-| **The Holy Tutors** | WP LMS Plugin | WordPress . React | [🔗 Visit](https://khurshedgroup.com/) |
+| **The Holy Tutors** | WP LMS Plugin | WordPress . React | [🔗 Visit](https://theholytutor.tabsap.com/) |
 
 > 50+ projects delivered overall. Full portfolio: **[mzahidkhan.com](https://mzahidkhan.com)**
 
