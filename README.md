@@ -78,9 +78,9 @@ I'm a **Senior Full Stack Software Engineer** with **9+ years** building product
 | **Atlantis RCM** | Healthcare — Revenue Cycle Mgmt | Laravel · MySQL · React | [🔗 Visit](https://www.atlantisrcm.com/) |
 | **HRM System** | HR Management | Laravel · MySQL · Bootstrap | [🔗 Visit](https://hrm.tabsap.com/) |
 | **CRM System** | Sales Pipeline | Laravel · MySQL | [🔗 Visit](https://crm.hayatullahkhanfazli.com/) |
-| **Prime Cloud** | SaaS / Cloud Services | Next.js · Node.js | [🔗 Visit](https://primecloudso.com/) |
-| **Lucky Core** | Multilingual E-commerce | Laravel | [🔗 Visit](https://luckycore.com/en) |
-| **Prime Food** | Food / Hospitality | Laravel | [🔗 Visit](https://primefood.techzone.so/) |
+| **Prime Cloud** | SaaS / Cloud Services | Next.js · Node.js . MongoDB | [🔗 Visit](https://primecloudso.com/) |
+| **Lucky Core** | Multilingual E-commerce | Laravel . Custome PHP . WordPress | [🔗 Visit](https://luckycore.com/en) |
+| **Prime Food** | Food / Hospitality | Laravel . VueJS . Livewire . MySQL | [🔗 Visit](https://primefood.techzone.so/) |
 | **Tabsap** | Corporate Brand | Next.js | [🔗 Visit](https://tabsap.com/) |
 | **Khurshed Group** | Corporate Group Site | Laravel . React | [🔗 Visit](https://khurshedgroup.com/) |
 | **The Holy Tutors** | WP LMS Plugin | WordPress . React | [🔗 Visit](https://theholytutor.tabsap.com/) |
