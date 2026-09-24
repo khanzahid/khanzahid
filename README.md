@@ -2,10 +2,7 @@
 <h3 align="center">Senior Full Stack Software Engineer · 9+ Years · Jeddah, Saudi Arabia (KSA)</h3>
 
 <p align="center">
-  <a href="https://mzahidkhan.com">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/muhammad-zahid-samail/">💼 LinkedIn</a> ·
-  <a href="mailto:mzahidsamail@gmail.com">📧 Email</a> ·
-  <a href="https://wa.me/966535109089">💬 WhatsApp</a>
+
 </p>
 
 <p align="center">
@@ -82,7 +79,6 @@ I'm a **Senior Full Stack Software Engineer** with **9+ years** building product
 | **Lucky Core** | Multilingual E-commerce | Laravel . Custome PHP . WordPress | [🔗 Visit](https://luckycore.com/en) |
 | **Prime Food** | Food / Hospitality | Laravel . VueJS . Livewire . MySQL | [🔗 Visit](https://primefood.techzone.so/) |
 | **Tabsap** | Corporate Brand | Next.js | [🔗 Visit](https://tabsap.com/) |
-| **Khurshed Group** | Corporate Group Site | Laravel . React | [🔗 Visit](https://khurshedgroup.com/) |
 | **The Holy Tutors** | WP LMS Plugin | WordPress . React | [🔗 Visit](https://theholytutor.tabsap.com/) |
 
 > 50+ projects delivered overall. Full portfolio: **[mzahidkhan.com](https://mzahidkhan.com)**
@@ -117,9 +113,5 @@ I'm a **Senior Full Stack Software Engineer** with **9+ years** building product
 
 ### 📫 Get in Touch
 
-- 🌐 Portfolio: **[mzahidkhan.com](https://mzahidkhan.com)**
-- 💼 LinkedIn: **[muhammad-zahid-samail](https://www.linkedin.com/in/muhammad-zahid-samail/)**
-- 📧 Email: **mzahidsamail@gmail.com**
-- 📱 WhatsApp: **+966 53 510 9089**
 
 <p align="center"><i>Open to opportunities — let's build something great together.</i></p>
